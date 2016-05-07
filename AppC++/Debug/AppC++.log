@@ -1,0 +1,6 @@
+﻿  App.cpp
+App.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  App.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AppC++.vcxproj -> C:\Projects\AppC-\AppC++\Debug\AppC++.exe
+  AppC++.vcxproj -> C:\Projects\AppC-\AppC++\Debug\AppC++.pdb (Partial PDB)
